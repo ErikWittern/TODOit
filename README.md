@@ -57,7 +57,7 @@ To make this magic possible, TODOit&trade; is carefully built around the followi
   - **Convention over configuration:** TODOit&trade; does not provide any configuration options, making it literally a no-brainer to use. In addition, you don't have to learn any conventions.
   - **Zero-footprint API:** By providing no means to programmatically interact with a TODOit&trade; app, we are able to keep the API to a bare minimum. That adds to TODOit&trade;'s astonishingly steep learning curve. Also, you don't need to go through the kind of extensive documentation so many other frameworks require.
   - **Stateless:** TODOit&trade; apps avoid all the hassle associated with state. We achieve this by carefully avoiding to persist any data, anywhere. Doing so significantly reduces the developer's cognitive load.
-  - **Microservice:** TODOit&trade; provides a competetivley small service.
+  - **Microservice:** TODOit&trade; provides a competitively small service.
   - **DevOps:** We leave the operation of the TODO app to you - the developer!
   - **Responsive:** We wrote TODOit&trade; from scratch to make sure it doesn't come with any styles. That means you can use a TODOit&trade; app in your responsive website - and it just works.
   - **Dependency-free:** Considering the recent [left-pad incident](http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/), having as little dependencies as possible is key. TODOit&trade; has _zero_ runtime dependencies, making it resilient to any ecosystem shenanigans.
